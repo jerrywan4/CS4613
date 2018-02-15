@@ -1,15 +1,18 @@
+# Mini Camelot Game
+
+### Author
 Jerry Wan
 Artificial Intelligence
 Professor Edward Wong
 
 
-##Game Instructions:
+## Game Instructions:
 1.	Unzip the .zip file to an easily accessible location
 2.	Open terminal or command prompt
 3.	Navigate to the directory where the .zip file was unzipped 
 4.	Run the .py file (usually `python3 camelot.py`)
 
-##Code design
+## Code design
 This code simulates a mini camelot game in the user’s terminal. The code creates a board with different values representing the different states of each location on the board. 
 “EMPTY” represents spaces on the board that are invalid locations/out of range of the game
 “O” represents spaces on the board that game pieces can move to
