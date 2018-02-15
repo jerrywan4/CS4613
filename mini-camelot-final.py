@@ -19,7 +19,7 @@ depth_limit = 4
 alphanumeric_int_dict = {'A':0,'B':1,'C':2,'D':3,'E':4,'F':5,'G':6,'H':7}
 int_alphanumeric_dict = {0:'A',1:'B',2:'C',3:'D',4:'E',5:'F',6:'G',7:'H'}
 
-#Define Board class
+#Define board class
 class Board:
     def __init__(self, white=None, black=None, white_castle=None, black_castle=None):
         #Board is initialized as an array
