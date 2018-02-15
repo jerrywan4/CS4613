@@ -5,7 +5,6 @@ Jerry Wan
 Artificial Intelligence
 Professor Edward Wong
 
-
 ## Game Instructions:
 1.	Unzip the .zip file to an easily accessible location
 2.	Open terminal or command prompt
